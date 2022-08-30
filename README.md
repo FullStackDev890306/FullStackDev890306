@@ -1,20 +1,37 @@
-## 💯 Welcome 💯 Thank you for your visiting my profile.
+## 💯 Welcome 💯
+
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Senior Full-Stack / Blockchain Developer</h1>
+<p align="center"><img align="center" style="width:96%" src="https://raw.githubusercontent.com/webdev1109/webdev1109/main/visionnaire-linguagens-de-programacao_14045_img.jpg" style = "width: -webkit-fill-available;"/></p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Create,%20Collaborate,%20Challenge;8+%2B%20years%20of%20coding%20experience;Being%20passionate%20and%20never20stop%20learning&center=true&width=380&height=45"></a>
+</p>
+With 8+ years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT. Since earning my bachelor's degree in internet and web development from University, I have served as developer, designer. In this position, I have led web and mobile development projects for clients in diverse industries including technology, manufacturing, pharmaceutical, hospitality, F&B, retail and financial services. <br>
+
+I am very experienced in the web and app development fields for 7+ years and have been working and I always try to give full-satisfy to client with my effort and great skills.
+
+I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js
+
+My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
+
+I have developing sites using React, Nextjs, Laravel, WordPress, and Python/Django, and much more.
+
+Especially I have rich experience with the latest Javascript frameworks such as Node/Express, React, and Vue.
+
+I had already built so many Websites with the mentioned skill.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=mern-dev-full&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
 
- ![](./profile-3d-contrib/profile-night-view.svg)
-
-
+![](./profile-3d-contrib/profile-night-view.svg)
 
 ### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
   <br />
-  
-  Hi, I'm a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
 
-  I am very experienced in the web and app development fields for 7+ years and have been working and I always try to give full-satisfy to client with my effort and great skills.
+I am very experienced in the web and app development fields for 7+ years and have been working and I always try to give full-satisfy to client with my effort and great skills.
 
 I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js
 
@@ -32,8 +49,7 @@ I had already built so many Websites with the mentioned skill.
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-
-- [💬 skypeID](https://join.skype.com/invite/vgJVlwAIci84) :  https://join.skype.com/invite/vgJVlwAIci84
+- [💬 skypeID](https://join.skype.com/invite/vgJVlwAIci84) : https://join.skype.com/invite/vgJVlwAIci84
 - [📞 TG](https://t.me/pdev217) : https://t.me/pdev217
 - [📝 Email](mailto:armandLucas92@gmail.com) : armandLucas92@gmail.com
 
@@ -57,7 +73,9 @@ I had already built so many Websites with the mentioned skill.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 
 <!-- 💗 **My Favorites Techs:** -->
+
 ## Used Skills
+
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -219,14 +237,15 @@ I had already built so many Websites with the mentioned skill.
 
 ## Core skills
 
-✔ <b>Front-end</b> : React js - Redux / Next.js / TypeScript / Vue.js /Angular / Bootstrap / React Native  <br>
+✔ <b>Front-end</b> : React js - Redux / Next.js / TypeScript / Vue.js /Angular / Bootstrap / React Native <br>
 ✔ <b>Back-end</b> : Node.js / Express / Django / Laravel /CodeIgniter <br>
 ✔ <b>Database</b> : Mysql / MongoDB / Postgres / SQlite <br>
 ✔ <b>Programming-languages</b> : JavaScript / HTML / CSS / PHP / Python <br>
 ✔ <b>Blockchain</b> : Solidity / Truffle / Remix / hardhat <br>
 <br>
+
 <p align = "center">
-  
+
 
 <p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge" />
@@ -244,5 +263,6 @@ I had already built so many Websites with the mentioned skill.
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=ArmandLucas&show_icons=true&count_private=true&layout=compact&theme=maroongold&include_all_commits=true" align="left" style="height: 150px" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandLucas&layout=compact&theme=maroongold&include_all_commits=true" align="right" style="height: 150px" /><br/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandLucas&layout=compact&theme=maroongold&include_all_commits=true" align="right" style="height: 150px" /><br/>
+
 </div>
