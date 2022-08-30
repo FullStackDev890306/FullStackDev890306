@@ -1,11 +1,12 @@
 ## 💯 Welcome 💯 Thank you for your visiting my profile.
 
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mern-dev-full&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
+</p>
 
  ![](./profile-3d-contrib/profile-night-view.svg)
 
-<!-- <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mern-dev-full&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
-</p> -->
+
 
 ### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -25,9 +26,9 @@ Especially I have rich experience with the latest Javascript frameworks such as 
 
 I had already built so many Websites with the mentioned skill.
 
- <div>
+ <!-- <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
-</div>
+</div> -->
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
