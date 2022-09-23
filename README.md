@@ -27,25 +27,6 @@ I had already built so many Websites with the mentioned skill.
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
-### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-  <br />
-
-I am very experienced in the web and app development fields for 7+ years and have been working and I always try to give full-satisfy to client with my effort and great skills.
-
-I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js
-
-My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
-
-I have developing sites using React, Nextjs, Laravel, WordPress, and Python/Django, and much more.
-
-Especially I have rich experience with the latest Javascript frameworks such as Node/Express, React, and Vue.
-
-I had already built so many Websites with the mentioned skill.
-
- <!-- <div>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
-</div> -->
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
